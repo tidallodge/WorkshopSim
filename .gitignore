@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Content files
 Content/*
+
+# VS Code
+.vscode/*
